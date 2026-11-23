@@ -4,6 +4,7 @@
 
 | 日期 | 标题 | 主题 | 状态 |
 | --- | --- | --- | --- |
+| 2026-11-23 | [跨项目安全成果盘点与方法论沉淀（脱敏版）](2026-11-23-cross-project-security-retrospective.md) | meta / ai-security / sec-eng | published |
 | 2026-11-23 | [开坑：为什么要有这个仓库](2026-11-23-kickoff.md) | meta | published |
 
 ---
