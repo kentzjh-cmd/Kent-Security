@@ -1,0 +1,62 @@
+# --- 密钥与凭据（最重要：绝不提交）---
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.keystore
+id_rsa
+id_ed25519
+*.token
+secrets/
+credentials/
+.aws/
+
+# --- 抓包与原始样本 ---
+*.pcap
+*.pcapng
+*.har
+payloads/real/
+samples/raw/
+
+# --- 本地环境与依赖 ---
+.venv/
+venv/
+env/
+node_modules/
+__pycache__/
+*.py[cod]
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# --- IDE / 编辑器 ---
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# --- 构建产物与大文件 ---
+build/
+dist/
+*.zip
+*.tar.gz
+*.7z
+*.iso
+*.dmp
+*.bin
+
+# --- 工具缓存与状态 ---
+.terraform/
+.nmap/
+.history
+*.log
+
+# --- 本地笔记草稿 ---
+_inbox/
+drafts/
