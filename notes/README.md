@@ -4,6 +4,7 @@
 
 | 日期 | 标题 | 主题 | 状态 |
 | --- | --- | --- | --- |
+| 2026-11-26 | [Skill 安全分析中的语义切片困境：去语境化逻辑成立，但攻防信任假设不对等](2026-11-26-skill-scan-semantic-slicing-and-asymmetric-defense.md) | ai-security / threat-modeling / sec-eng | published |
 | 2026-11-23 | [PentAGI-sec 受控已知风险验证闭环：脱敏总结与引擎/Coding Agent 分工](2026-11-23-pentagi-sec-closed-loop-summary.md) | ai-security / sec-eng | published |
 | 2026-11-23 | [开坑：为什么要有这个仓库](2026-11-23-kickoff.md) | meta | published |
 | 2026-11-23 | [跨项目安全成果盘点与方法论沉淀（脱敏版）](2026-11-23-cross-project-security-retrospective.md) | meta / supply-chain / sec-eng | published |
